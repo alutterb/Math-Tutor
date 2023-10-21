@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+tensorflow
+langchain
+pytorch
+pinecone-client[grpc]
+bs4
+selenium
